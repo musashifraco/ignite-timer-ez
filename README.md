@@ -16,7 +16,7 @@ Ignite Timer - Timer feito com React. Desafio 02 do Ignite.
 
 ## 🚀 Como usar o Ignite Timer
 
-Para utilizar o Ignite Timer basta acessar o link: 
+Para utilizar o Ignite Timer basta acessar o link: https://bespoke-seahorse-41b4eb.netlify.app
 
 ### :octocat: Faça o clone do projeto
 
